@@ -1,5 +1,5 @@
 # MathDraw (Last edited in 2023)
-A project about bringing a visualisation app of algorithm in C++ with main objectives to train in this language and create a clean repository.
+A project about bringing a visualisation of equation in C++ with main objectives to train in this language and create a clean repository.
 
 
 ## Authors 
